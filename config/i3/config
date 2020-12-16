@@ -27,10 +27,13 @@ title_align center
 # thin borders
 hide_edge_borders both
 
+# automatic back-forth when switching to current workspace yes|no
+workspace_auto_back_and_forth yes
+
 
 # Font for window titles. Will also be used by the bar unless a different font
 # is used in the bar {} block below.
-font pango:Ubuntu Regular 16
+font pango:Droid Sans Regular 16
 
 # This font is widely installed, provides lots of unicode glyphs, right-to-left
 # text rendering and scalability on retina/hidpi displays (thanks to pango).
